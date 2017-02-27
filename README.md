@@ -14,17 +14,27 @@ Stakeholders This project involves three major groups of stakeholders. The first
 Functional Requirements
 Basic Functionality
 1.1 	The Penn State Cafe will have a menu
+
 1.2 	The Penn State Cafe will allow users to create a profile
+
 1.3	The Penn State Cafe will show nutrition values for each item
+
 1.4	The Penn State Cafe will allow users to add items to their cart
+
 1.5	The Penn State Cafe will allow users to pay for their order 
+
 1.6	The Penn State Cafe will allow users to state when they want their order(For example, User states they want a cheesesteak in 30 mins when they get out of class)
+
 1.7	The Penn State Cafe will include a order history
 
 
 
 Technical Requirements
+
 IDE - Eclipse
+
 JDK 1.8
+
 Spring Tool Suite (STS)
+
 Maven
